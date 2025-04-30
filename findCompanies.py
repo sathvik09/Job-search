@@ -25,7 +25,6 @@ def Firecrawl_crawl(url):
     print(scrape_result)
 
 
-# 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
 def Extract_titles():
     # Load the text file
     with open("a.txt", "r", encoding="utf-8") as f:
